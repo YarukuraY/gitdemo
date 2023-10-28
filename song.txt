@@ -2,7 +2,3 @@ Hello Hello
 First song
 Goodbye Goodbye
 First Song
-
-Third version
-Hello Goodbye
-Goodbye Hello
