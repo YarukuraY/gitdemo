@@ -3,8 +3,6 @@ First song
 Goodbye Goodbye
 First Song
 
-One more 
-Hello Hello
-Two more
+Second version
 Goodbye Goodbye
-_______________
+Hello Hello
